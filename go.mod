@@ -1,4 +1,4 @@
-module go-aphf
+module github.com/twingdev/go-aphf
 
 go 1.22
 

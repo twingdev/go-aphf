@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-aphf/signatures"
+	"github.com/twingdev/go-aphf/signatures"
 )
 
 func main() {

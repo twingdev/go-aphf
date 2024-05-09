@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/twingdev/go-aphf/signatures"
 	"github.com/zeebo/assert"
-	"go-aphf/signatures"
 	"testing"
 )
 
